@@ -64,12 +64,12 @@ The car can detect red or green cards using the PiCar-X camera and `Vilib.color_
 
 ## 🧪 How to Run
 
-```bash
 # Navigate to code directory
 cd code
 
 # Run the main menu interface
 python3 main.py
+
 Use your keyboard to:
 
 Press 1 for motion demo
