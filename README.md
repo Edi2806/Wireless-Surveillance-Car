@@ -33,7 +33,22 @@ A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and
 ---
 
 ## 📂 Project Structure
-<pre><code>```plaintext 📂 Wireless-Surveillance-Car/ ├── code/ │ ├── main.py │ ├── motion.py │ ├── keyboard_control.py │ ├── Automatic_car.py │ └── app_control.py ├── docs/ │ ├── car_photo.jpg │ ├── line_following_demo.png │ ├── motion_test.jpg │ ├── keyboard_mode.jpg │ └── autonomous_mode.jpg ├── README.md ```</code></pre>
+```plaintext
+📂 Wireless-Surveillance-Car/
+├── code/
+│   ├── main.py
+│   ├── motion.py
+│   ├── keyboard_control.py
+│   ├── Automatic_car.py
+│   └── app_control.py
+├── docs/
+│   ├── car_photo.jpg
+│   ├── line_following_demo.png
+│   ├── motion_test.jpg
+│   ├── keyboard_mode.jpg
+│   └── autonomous_mode.jpg
+├── README.md
+
 ---
 
 ## 🚦 Traffic Light Detection (Experimental)
