@@ -2,7 +2,9 @@
 
 A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and Raspberry Pi 4. The car supports both manual and autonomous modes, integrating real-time camera preview, obstacle detection, and basic traffic light recognition.
 
-![PiCar-X](https://docs.sunfounder.com/projects/picar-x/en/latest/_images/car2.png)
+![Overview of the Car](docs/car_photo.jpg)
+
+---
 
 ## 🧠 Features
 
@@ -28,4 +30,48 @@ A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and
 ---
 
 ## 📂 Project Structure
+Wireless-Surveillance-Car/
+├── code/
+│ ├── main.py
+│ ├── motion.py
+│ ├── keyboard_control.py
+│ ├── Automatic_car.py
+│ └── app_control.py
+├── docs/
+│ ├── car_photo.jpg
+│ ├── line_following_demo.png
+│ ├── motion_test.jpg
+│ ├── keyboard_mode.jpg
+│ └── autonomous_mode.jpg
+├── README.md
+---
 
+## 🚦 Traffic Light Detection (Experimental)
+
+The car can detect red or green cards using the PiCar-X camera and `Vilib.color_detect()`:
+- 🟥 Red → stop
+- 🟩 Green → continue
+
+*Note: Works best with solid cards under good lighting conditions. Detection timeout is used to prevent stalling.*
+
+---
+
+## 🧪 How to Run
+
+```bash
+# Navigate to code directory
+cd code
+
+# Run the main menu interface
+python3 main.py
+Use your keyboard to:
+
+Press 1 for motion demo
+
+Press 2 for manual control
+
+Press 3 for autonomous mode
+
+Press 4 for mobile app control
+
+Press q to quit
