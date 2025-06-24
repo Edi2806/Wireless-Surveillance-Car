@@ -5,7 +5,7 @@
 
 A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and Raspberry Pi 4. The car supports both manual and autonomous modes, integrating real-time camera preview, obstacle detection, and basic traffic light recognition.
 
-![Overview of the Car](docs/car_image.jpg)
+![Overview of the Car](docs/Car_image.jpg)
 
 ---
 
