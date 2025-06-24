@@ -1,4 +1,7 @@
 # 🚗 Wireless Surveillance Car
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-lightgrey?logo=raspberrypi)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
 A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and Raspberry Pi 4. The car supports both manual and autonomous modes, integrating real-time camera preview, obstacle detection, and basic traffic light recognition.
 
