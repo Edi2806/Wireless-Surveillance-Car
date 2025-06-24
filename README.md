@@ -49,7 +49,7 @@ A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and
 │   ├── keyboard_mode.jpg
 │   └── autonomous_mode.jpg
 ├── README.md
-
+```
 ---
 
 ## 🚦 Traffic Light Detection (Experimental)
