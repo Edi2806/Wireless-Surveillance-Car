@@ -64,6 +64,7 @@ The car can detect red or green cards using the PiCar-X camera and `Vilib.color_
 
 ## 🧪 How to Run
 
+```bash
 # Navigate to code directory
 cd code
 
