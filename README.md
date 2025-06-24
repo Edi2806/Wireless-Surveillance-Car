@@ -33,6 +33,7 @@ A smart, modular robotic vehicle built using the SunFounder PiCar-X platform and
 ---
 
 ## 📂 Project Structure
+```markdown
 ```plaintext
 📂 Wireless-Surveillance-Car/
 ├── code/
